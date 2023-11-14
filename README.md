@@ -13,3 +13,11 @@ A: Mostly - Windows viruses do not affect it at all, and a Linux virus (very rar
 
 Q: Can anything be done in Windows?<br>
 A: Stop asking silly questions...
+
+<h2>ABOUT</h2>
+
+◻️ Hannah Montana Linux is a free operating system based on Kubuntu with a Hannah Montana theme.
+
+◻️ Hannah Montana Linux is fast, stable and powerful.
+
+◻️ It is not vulnerable to Windows viruses.
