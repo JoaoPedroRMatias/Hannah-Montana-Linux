@@ -4,6 +4,7 @@ This project is an update of the original "Hannah Montana Linux" which has been 
 Autor: https://github.com/JoaoPedroRMatias
 
 <h2>FAQ</h2>
+
 Q: How/why do you want to update this project?<br>
 A: I thought – why let this beautiful, perfect and safe project die? So I came up with this idea after a lot of reading and work.
 
