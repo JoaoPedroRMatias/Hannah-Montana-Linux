@@ -25,3 +25,7 @@ A: Stop asking silly questions...
 ◻️ Hannah Montana Linux is fast, stable and powerful.
 
 ◻️ It is not vulnerable to Windows viruses.
+
+<div align="right">
+<img src="https://github.com/JoaoPedroRMatias/Hannah-Montana-Linux/assets/100814579/508fc85c-4ae6-4019-ba6c-ae82c7b7022d">
+</div>
