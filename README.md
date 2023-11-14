@@ -1,7 +1,7 @@
 # Hannah Montana Linux
 This project is an update of the original "Hannah Montana Linux" which has been discontinued, in which I am upgrading to the latest version of Kubuntu OS and KDE GUI.
 
-Autor: https://github.com/JoaoPedroRMatias
+Author: https://github.com/JoaoPedroRMatias
 
 <div align="center">
 <img src="https://github.com/JoaoPedroRMatias/Hannah-Montana-Linux/assets/100814579/0620ca6d-cac3-4037-bb73-1178eb2049b5">
