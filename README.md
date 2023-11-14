@@ -3,6 +3,10 @@ This project is an update of the original "Hannah Montana Linux" which has been 
 
 Autor: https://github.com/JoaoPedroRMatias
 
+<div align="center">
+<img src="https://github.com/JoaoPedroRMatias/Hannah-Montana-Linux/assets/100814579/0620ca6d-cac3-4037-bb73-1178eb2049b5">
+</div>
+
 <h2>FAQ</h2>
 
 Q: How/why do you want to update this project?<br>
